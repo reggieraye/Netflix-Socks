@@ -41,4 +41,11 @@ https://www.adafruit.com/products/753
 8. 10K Ohm Resistors
 https://www.adafruit.com/products/2784
 
-9. 1 Ohm Resistors
+9. Switch
+https://www.adafruit.com/products/1119
+
+10. 1 Ohm Resistors
+http://www.digikey.com/product-detail/en/CFM14JT1R00/S1QCT-ND/2617699
+
+11. IR Emitter
+http://www.digikey.com/product-search/en?keywords=1125-1235-ND
