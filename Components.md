@@ -1,4 +1,5 @@
-PROTOTYPING/BUILDING
+Prototyping / Building
+
 1. Breadboard
 https://www.adafruit.com/products/239
 
@@ -11,7 +12,7 @@ https://www.adafruit.com/products/153
 
 4. Wire for soldering
 
-ACTUAL PARTS
+Actual Parts for the Sock
 
 1. Arduino Pro Trinket
 https://learn.adafruit.com/introducing-pro-trinket/setting-up-arduino-ide
