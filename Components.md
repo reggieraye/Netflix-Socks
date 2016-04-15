@@ -12,7 +12,7 @@ https://www.adafruit.com/products/153
 
 4. Wire for soldering
 
-Actual Parts for the Sock
+<b>Actual Parts for the Sock</b>
 
 1. Arduino Pro Trinket
 https://learn.adafruit.com/introducing-pro-trinket/setting-up-arduino-ide
