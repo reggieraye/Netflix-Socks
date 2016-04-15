@@ -15,10 +15,12 @@ https://www.adafruit.com/products/153
 
 4. Wire for soldering
 
+5. USB Micro
+
 <b>Actual Parts for the Sock</b>
 
-1. Arduino Pro Trinket
-https://learn.adafruit.com/introducing-pro-trinket/setting-up-arduino-ide
+1. Arduino Pro Trinket 3V
+https://www.adafruit.com/products/2010
 
 2. Pro Trinket Backpack
 https://www.adafruit.com/product/2124
