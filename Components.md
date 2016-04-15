@@ -1,4 +1,4 @@
-Prototyping / Building
+<b>Prototyping / Building</b>
 
 1. Breadboard
 https://www.adafruit.com/products/239
