@@ -1,6 +1,12 @@
+<style>
+body { background-color:blue; }
+.highlightme { background-color:#FFFF00; }
+p { background-color:#FFFFFF; }
+</style>
+
 <i>Note: Try to bundle everything you need in the lowest number of orders from the least amount of companies. Shipping electronics is expensive! Usually around $15 regardless of order size.</i>
 
-Here is their official list, but there are some things are <span style="background-color: #FFFF00">missing</span>.
+Here is their official list, but there are some things are missing.<span class="highlightme">test</span>
 
 <b>Prototyping and Building</b>
 
