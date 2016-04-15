@@ -1,3 +1,5 @@
+<i>Note: Try to bundle everything you need in the lowest number of orders from the least amount of companies. Shipping electronics is expensive! Usually around $15 regardless of order size<.</i>
+
 <b>Prototyping and Building</b>
 
 1. Breadboard
