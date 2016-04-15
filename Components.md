@@ -1,5 +1,7 @@
 <i>Note: Try to bundle everything you need in the lowest number of orders from the least amount of companies. Shipping electronics is expensive! Usually around $15 regardless of order size.</i>
 
+Here is their official list, but there are some things are <mark>missing</mark>.
+
 <b>Prototyping and Building</b>
 
 1. Breadboard
@@ -29,3 +31,5 @@ https://www.adafruit.com/products/1260
 
 5. Accelerometer
 https://www.adafruit.com/products/1120
+
+6. 
