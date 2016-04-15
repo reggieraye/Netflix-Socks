@@ -1,6 +1,6 @@
 <i>Note: Try to bundle everything you need in the lowest number of orders from the least amount of companies. Shipping electronics is expensive! Usually around $15 regardless of order size.</i>
 
-Here is their official list, but there are some things are <mark>missing</mark>.
+Here is their official list, but there are some things are <span style="background-color: #FFFF00">missing</span>.
 
 <b>Prototyping and Building</b>
 
