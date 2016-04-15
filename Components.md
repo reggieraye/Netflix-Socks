@@ -4,8 +4,7 @@
 https://www.adafruit.com/products/239
 
 2. Soldering Iron / Stand
-https://www.adafruit.com/products/180
-https://www.adafruit.com/products/150
+https://www.adafruit.com/products/180 / https://www.adafruit.com/products/150
 
 3. Wire for prototyping
 https://www.adafruit.com/products/153
