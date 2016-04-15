@@ -1,4 +1,4 @@
-Last year Netflix released some simple guidelines for DIY socks that would pause your Netflix show/movie if you were detected to be sleeping. I thought this would be a great gift so I took the challenge. Due to the lack of information I found during my experience, I figured I would share the solutions I have found to some problems encountered during my journey.
+Last year Netflix released some simple guidelines for DIY socks that would pause your Netflix show/movie if you were detected to be sleeping. I thought this would be a great gift so I took the challenge. Due to the lack of information online, I figured I would share the solutions I have found to some problems encountered during my journey.
 
 Here is the official guideline: https://makeit.netflix.com/
 
