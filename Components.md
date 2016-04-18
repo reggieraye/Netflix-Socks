@@ -13,9 +13,8 @@ https://www.adafruit.com/products/180 / https://www.adafruit.com/products/150
 3. Wire for prototyping
 https://www.adafruit.com/products/153
 
-4. Wire for soldering
-
-Anywhere (pay attention to thickness)
+4. Wire for soldering 
+https://www.adafruit.com/products/1446
 
 5. USB Micro
 https://www.adafruit.com/products/592
