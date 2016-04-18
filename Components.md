@@ -14,8 +14,10 @@ https://www.adafruit.com/products/180 / https://www.adafruit.com/products/150
 https://www.adafruit.com/products/153
 
 4. Wire for soldering
+Anywhere (pay attention to thickness)
 
 5. USB Micro
+https://www.adafruit.com/products/592
 
 <b>Actual Parts for the Sock</b>
 
