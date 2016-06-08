@@ -1,4 +1,4 @@
-// Default code from Netflix using IR pulses for a Sony Televison
+// Default code for Arduino board from Netflix using IR pulses for a Sony Televison
 
 // ======================== LIBS ==============================
 
