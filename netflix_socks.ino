@@ -1,3 +1,5 @@
+// Default code from Netflix using IR pulses for a Sony Televison
+
 // ======================== LIBS ==============================
 
 #include <avr/power.h>
